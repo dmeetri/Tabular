@@ -1,4 +1,4 @@
-from window import Window
+from desctop.window import Window
 
 def main():
     win = Window()
