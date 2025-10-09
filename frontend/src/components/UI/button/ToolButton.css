@@ -1,0 +1,14 @@
+.tool-button {
+  padding: 5px;
+  border-radius: 5px;
+  transition: all 0.1s ease-in-out;
+}
+.tool-button img {
+  width: 20px;
+}
+.tool-button:hover {
+  background-color: var(--color-light-gray);
+}
+.tool-button:active {
+  transform: scale(0.9);
+}
